@@ -33,7 +33,7 @@ int[] MoveZeroes(int[] nums)
         }
     }
 
-    while (temp < nums.Length)//lagging pointer is +1 frp, the last non zero
+    while (temp < nums.Length)//lagging pointer is +1 from, the last non zero
     {
         nums[temp] = 0;//assign 0 to the lagging pointer
         temp++;//move lagging pointer to the right until it reaches the end of the array

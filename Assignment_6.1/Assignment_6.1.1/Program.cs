@@ -19,7 +19,7 @@
 //  } 
 // func House Search(int number)
 
-class House
+class House //this will be my data type for each node in the linked list
 {
     public int HouseNumber { get; set; }
     public string Address { get; set; }
