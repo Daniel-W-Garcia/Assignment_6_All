@@ -1,0 +1,15 @@
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\bin\Debug\net9.0\KTSolver.exe
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\bin\Debug\net9.0\KTSolver.deps.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\bin\Debug\net9.0\KTSolver.runtimeconfig.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\bin\Debug\net9.0\KTSolver.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\bin\Debug\net9.0\KTSolver.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.AssemblyInfoInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.AssemblyInfo.cs
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.csproj.CoreCompileInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.sourcelink.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\refint\KTSolver.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\KTSolver.genruntimeconfig.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.2\KTSolver\obj\Debug\net9.0\ref\KTSolver.dll
