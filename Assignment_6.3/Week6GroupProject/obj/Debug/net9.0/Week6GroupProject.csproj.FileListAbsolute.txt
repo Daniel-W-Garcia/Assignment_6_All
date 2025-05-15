@@ -1,0 +1,15 @@
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\bin\Debug\net9.0\Week6GroupProject.exe
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\bin\Debug\net9.0\Week6GroupProject.deps.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\bin\Debug\net9.0\Week6GroupProject.runtimeconfig.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\bin\Debug\net9.0\Week6GroupProject.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\bin\Debug\net9.0\Week6GroupProject.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.AssemblyInfoInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.AssemblyInfo.cs
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.csproj.CoreCompileInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.sourcelink.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\refint\Week6GroupProject.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\Week6GroupProject.genruntimeconfig.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_6_All\Assignment_6.3\Week6GroupProject\obj\Debug\net9.0\ref\Week6GroupProject.dll
